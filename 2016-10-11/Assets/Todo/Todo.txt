@@ -1,6 +1,17 @@
+TONIGHT
+
+Fix movement so that holding down moves toward a spot, and tapping fires a spell
+Create a dialogue system
+
+
+EVERY PROEJCT
+
 Change title to capsule fight vol 3
 Change date in intro
 
+
+
+FUTURE
 Create diverse enemies
 Let the player fire weapon
 Create UI for health
