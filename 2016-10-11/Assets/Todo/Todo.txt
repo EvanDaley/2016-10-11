@@ -2,6 +2,7 @@ TONIGHT
 
 Fix movement so that holding down moves toward a spot, and tapping fires a spell
 Create a dialogue system
+Create a boss battle if possible
 
 
 EVERY PROEJCT
